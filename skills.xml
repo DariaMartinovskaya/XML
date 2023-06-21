@@ -1,0 +1,62 @@
+<Skills>    
+<Basic_theory>What is testing?</Basic_theory>    
+<Basic_theory>Bug reports</Basic_theory>    
+<Basic_theory>Documentation</Basic_theory>    
+<Basic_theory>Testing types, methods and directions</Basic_theory>   <Basic_theory>SDLC</Basic_theory>    
+<Basic_theory>STLC</Basic_theory>  
+<Client-server_architecture>Think client</Client-server_architecture>  
+<Client-server_architecture>Fat client</Client-server_architecture> 
+<Client-server_architecture>Two-tier architecture</Client-server_architecture>  
+<Client-server_architecture>Three-tier architecture</Client-server_architecture>  
+<HTTP>methods</HTTP>  
+<HTTP>structure</HTTP>  
+<HTTP>response codes</HTTP>  
+<Testing_API_using_Postman>JS</Testing_API_using_Postman>  
+<Testing_API_using_Postman>autotests API</Testing_API_using_Postman>  
+<Server_logs>Diagnostic</Server_logs>  
+<Server_logs>Reading</Server_logs>  
+<HTTP_sniffing>Charles</HTTP_sn
+iffing>  
+<HTTP_sniffing>Fiddler</HTTP_sniffing>  
+<Dev_Tools>Google Chrome</Dev_Tools>  
+<Dev_Tools>FireFox</Dev_Tools>  
+<VPN>How it works</VPN>  
+<VPN>Purposes</VPN>  
+<VPN>How can be used</VPN>  
+<VPN>Instruments options</VPN>  
+<Mobile_testing>iOS pecularities</Mobile_testing>  
+<Mobile_testing>Android pecularities</Mobile_testing>  
+<Mobile_testing>Guidelines</Mobile_testing>  
+<Environments>XCode</Environments>  
+<Environments>Android Studio</Environments>  
+<ADB>  </ADB>  
+<Terminal_Linux>cp</Terminal_Linux>  
+<Terminal_Linux>mkdir</Terminal_Linux>  
+<Terminal_Linux>touch</Terminal_Linux>  
+<Terminal_Linux>ls</Terminal_Linux>  
+<Terminal_Linux>cd</Terminal_Linux>  
+<Terminal_Linux>mv</Terminal_Linux>  
+<Terminal_Linux>etc.</Terminal_Linux>  
+<Git_bash_basics>Scripts</Git_bash_basics> 
+<Git_bash_basics>Automation</Git_bash_basics>  
+<SQL>Create</SQL>  
+<SQL>Delete</SQL>  
+<SQL>Drop</SQL>  
+<SQL>Insert Into</SQL>  
+<SQL>Select</SQL>  
+<SQL>From</SQL>  
+<SQL>Where</SQL>  
+<SQL>Join</SQL>  
+<Data_base_Redis>Installation</Data_base_Redis>  
+<Data_base_Redis>Setting up</Data_base_Redis>  
+<Data_base_Redis>Usage</Data_base_Redis>  
+<Jmeter>  </Jmeter>  
+<Date_base_Postgres>Installation</Date_base_Postgres>  
+<Date_base_Postgres>Setting up</Date_base_Postgres>  
+<Date_base_Postgres>Usage</Date_base_Postgres>  
+<Scrum>  </Scrum>  
+<Test_design_technics>Boundary-value analysis</Test_design_technics> <Test_design_technics>Equivalence partitioning</Test_design_technics><Test_design_technics>Combinatorian technics</Test_design_technics>  <Test_design_technics>Statuses</Test_design_technics>  
+<Test_design_technics>Movings</Test_design_technics>  
+<Python>Basics</Python>  
+<Python>Creation of client-server apps</Python>  
+</Skills>               
