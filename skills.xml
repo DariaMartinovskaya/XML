@@ -4,19 +4,16 @@
 <Basic_theory>Documentation</Basic_theory>    
 <Basic_theory>Testing types, methods and directions</Basic_theory>   <Basic_theory>SDLC</Basic_theory>    
 <Basic_theory>STLC</Basic_theory>  
-<Client-server_architecture>Think client</Client-server_architecture>  
-<Client-server_architecture>Fat client</Client-server_architecture> 
+<Client-server_architecture>Think client</Client-server_architecture><Client-server_architecture>Fat client</Client-server_architecture/>
 <Client-server_architecture>Two-tier architecture</Client-server_architecture>  
 <Client-server_architecture>Three-tier architecture</Client-server_architecture>  
 <HTTP>methods</HTTP>  
 <HTTP>structure</HTTP>  
 <HTTP>response codes</HTTP>  
 <Testing_API_using_Postman>JS</Testing_API_using_Postman>  
-<Testing_API_using_Postman>autotests API</Testing_API_using_Postman>  
-<Server_logs>Diagnostic</Server_logs>  
+<Testing_API_using_Postman>autotests API</Testing_API_using_Postman> <Server_logs>Diagnostic</Server_logs>  
 <Server_logs>Reading</Server_logs>  
-<HTTP_sniffing>Charles</HTTP_sn
-iffing>  
+<HTTP_sniffing>Charles</HTTP_sniffing>  
 <HTTP_sniffing>Fiddler</HTTP_sniffing>  
 <Dev_Tools>Google Chrome</Dev_Tools>  
 <Dev_Tools>FireFox</Dev_Tools>  
