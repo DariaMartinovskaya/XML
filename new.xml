@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<root>
-    <row>
         <Full_name>Daria Martinovskaya</Full_name>
         <Age>27 y.o.</Age>
         <Pets_number>two</Pets_number>
         <Expected_salary>from 1000 Euro net</Expected_salary>
-    </row>
-</root>
